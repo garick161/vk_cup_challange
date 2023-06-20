@@ -1,1 +1,1 @@
-# vk_cup_challange
+# vk_cup_challenge
