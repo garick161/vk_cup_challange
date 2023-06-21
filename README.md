@@ -47,14 +47,11 @@ __Feature engeneering__: pytorch, transformers
 
 __vk_challenge.ipynb__ - ноутбук с ходом исследования и обучениtv модели
 
-__CL_Cup IT 2023_Секция DS_Кейс VK.pdf__ - описание кейса чемпионата от организаторов
-
 __Changellenge__Cup IT 2023_Диплом_1.pdf__ - диплом участника
 
-__data__ - директория, где храняться данные:
+При необходимости можно запросить дополнительно доступ к исходным данным чемпионата:
 
-ссылка на google.drive 
-https://drive.google.com/drive/folders/1YVgJjJ3hn92R7zYYr6c_IkYegyGwnLKt?usp=sharing
+__CL_Cup IT 2023_Секция DS_Кейс VK.pdf__ - описание кейса чемпионата от организаторов
 
 __ranking_test.jsonl__ , __ranking_train.jsonl__ - исходные данные
 
